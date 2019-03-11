@@ -1,0 +1,29 @@
+{
+  "name": "node-express-playlist",
+  "version": "1.0.0",
+  "description": "All course files for the [NodeJS](https://nodejs.org) tutorial.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/titaoyamamoto/node-express-playlist.git"
+  },
+  "keywords": [
+    "api",
+    "node",
+    "js",
+    "javascript"
+  ],
+  "author": "Titao Yamamoto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/titaoyamamoto/node-express-playlist/issues"
+  },
+  "homepage": "https://github.com/titaoyamamoto/node-express-playlist#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
